@@ -21,9 +21,9 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:layout_marginBottom="20dp"
-        android:text="Selamat transaksi anda sukses! silahkan untuk melanjutkan pembayaran mu di kasir! ^,^"
+        android:text="Selamat transaksi anda sukses! "
         android:textStyle="bold"
-        android:textSize="40dp" />
+        android:textSize="60dp" />
 
     <TextView
         android:id="@+id/textView5"
